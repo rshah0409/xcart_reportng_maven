@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Smoke Test"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="37.298">
+  <properties />
+  
+  
+            <testcase name="verifySaleProductsArrangeInOrderGivenInSortByAndVerify" time="4.255" classname="com.xcart.mobile.testsuite.TestSuite" />
+                <testcase name="verifyThatUserShouldPlaceOrderSuccessfullyForAvengersFabrikationPlush" time="22.161" classname="com.xcart.mobile.testsuite.TestSuite" />
+                <testcase name="verifyBestsellersProductsArrangeInGivenOrder" time="4.844" classname="com.xcart.mobile.testsuite.TestSuite" />
+                <testcase name="verifyThatUserShouldClearShoppingCartSuccessfully" time="6.038" classname="com.xcart.mobile.testsuite.TestSuite" />
+      
+</testsuite>
